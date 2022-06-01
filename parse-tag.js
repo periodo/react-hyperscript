@@ -1,7 +1,7 @@
 /* eslint-disable complexity, max-statements */
 'use strict';
 
-var classIdSplit = /([\.#]?[a-zA-Z0-9_:-]+)/;
+var classIdSplit = /([.#]?[a-zA-Z0-9_:-]+)/;
 var notClassId = /^\.|#/;
 
 module.exports = parseTag;
