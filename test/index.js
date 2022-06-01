@@ -60,14 +60,6 @@ var renderTests = {
     ]),
     html: '<h1><span></span><span></span></h1>'
   },
-  'tag with nested dataset': {
-    dom: h('div', {dataset: {foo: 'bar', bar: 'oops'}}),
-    html: '<div data-foo="bar" data-bar="oops"></div>'
-  },
-  'tag with nested attributes': {
-    dom: h('div', {attributes: {title: 'foo'}}),
-    html: '<div title="foo"></div>'
-  },
   'basic component': {
     dom: h(Component),
     html: '<div><h1></h1></div>'
