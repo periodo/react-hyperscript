@@ -27,13 +27,13 @@
   ],
   "main": "index.js",
   "peerDependencies": {
-    "react": ">= 0.12.0 < 17.0.0"
+    "react": ">= 0.12.0"
   },
   "devDependencies": {
     "create-react-class": "^15.7.0",
     "eslint": "^8.16.0",
     "eslint-config-mlmorg": "^2.0.0",
-    "react": ">= 0.12.0 < 17.0.0",
+    "react": ">= 0.12.0",
     "react-dom": "^16.13.0",
     "tap-spec": "^5.0.0",
     "tape": "^5.5.3"
