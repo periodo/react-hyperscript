@@ -1,8 +1,7 @@
 {
   "name": "react-hyperscript",
   "description": "Hyperscript syntax for React.js markup",
-  "version": "3.2.0",
-  "homepage": "https://github.com/mlmorg/react-hyperscript",
+  "homepage": "https://github.com/periodo/react-hyperscript",
   "author": {
     "name": "Matt Morgan",
     "email": "matt@mlmorg.com",
@@ -17,16 +16,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mlmorg/react-hyperscript.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mlmorg/react-hyperscript/issues"
+    "url": "git://github.com/periodo/react-hyperscript.git"
   },
   "license": "MIT",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/mlmorg/react-hyperscript/blob/master/LICENSE"
+      "url": "https://github.com/periodo/react-hyperscript/blob/master/LICENSE"
     }
   ],
   "main": "index.js",
